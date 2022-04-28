@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/edit"
+        android:title="About"
+        android:contentDescription="@string/content_description_About"
+         />
+
+    <item
+        android:id="@+id/favorite"
+        android:title="General setting"
+        android:contentDescription="@string/content_description_Settings"
+         />
+
+    <item
+        android:id="@+id/more"
+        android:title="Help"
+        android:contentDescription="@string/content_description_Help"
+        />
+
+</menu>
+

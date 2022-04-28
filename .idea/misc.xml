@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Guardian/app/src/main/res/drawable-v24/indicator_default.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Guardian/app/src/main/res/drawable-v24/indicator_selector.xml" value="0.1545" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Guardian/app/src/main/res/layout/activity_first_page.xml" value="0.153125" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Guardian/app/src/main/res/layout/activity_hom_page.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Guardian/app/src/main/res/layout/activity_intro.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Guardian/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Guardian/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Guardian/app/src/main/res/layout/activity_register.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Guardian/app/src/main/res/layout/activity_scrolling.xml" value="0.16304347826086957" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Guardian/app/src/main/res/layout/content_scrolling.xml" value="0.16304347826086957" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Guardian/app/src/main/res/layout/layout_screen.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Guardian/app/src/main/res/menu/menu_scrolling.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Guardian/app/src/main/res/menu/top_app_bar.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/PCS/Desktop/AndroidStudioProjects/Guardian/app/src/main/res/drawable-anydpi/ic_menu.xml" value="0.187" />
+        <entry key="..\:/Users/PCS/Desktop/AndroidStudioProjects/Guardian/app/src/main/res/drawable-anydpi/ic_search1.xml" value="0.187" />
+        <entry key="..\:/Users/PCS/Desktop/AndroidStudioProjects/Guardian/app/src/main/res/drawable-v24/indicator_default.xml" value="0.187" />
+        <entry key="..\:/Users/PCS/Desktop/AndroidStudioProjects/Guardian/app/src/main/res/drawable-v24/rounded.xml" value="0.187" />
+        <entry key="..\:/Users/PCS/Desktop/AndroidStudioProjects/Guardian/app/src/main/res/layout/activity_app_block.xml" value="0.1598731884057971" />
+        <entry key="..\:/Users/PCS/Desktop/AndroidStudioProjects/Guardian/app/src/main/res/layout/activity_backdrop.xml" value="0.15806159420289856" />
+        <entry key="..\:/Users/PCS/Desktop/AndroidStudioProjects/Guardian/app/src/main/res/layout/activity_child_page.xml" value="0.16032608695652173" />
+        <entry key="..\:/Users/PCS/Desktop/AndroidStudioProjects/Guardian/app/src/main/res/layout/activity_hom_page.xml" value="0.15806159420289856" />
+        <entry key="..\:/Users/PCS/Desktop/AndroidStudioProjects/Guardian/app/src/main/res/layout/activity_intro.xml" value="0.1" />
+        <entry key="..\:/Users/PCS/Desktop/AndroidStudioProjects/Guardian/app/src/main/res/layout/activity_login.xml" value="0.15806159420289856" />
+        <entry key="..\:/Users/PCS/Desktop/AndroidStudioProjects/Guardian/app/src/main/res/layout/activity_profile_settings.xml" value="0.18" />
+        <entry key="..\:/Users/PCS/Desktop/AndroidStudioProjects/Guardian/app/src/main/res/layout/activity_register.xml" value="0.15806159420289856" />
+        <entry key="..\:/Users/PCS/Desktop/AndroidStudioProjects/Guardian/app/src/main/res/layout/activity_screen_limit.xml" value="0.2" />
+        <entry key="..\:/Users/PCS/Desktop/AndroidStudioProjects/Guardian/app/src/main/res/layout/layout_screen.xml" value="0.1" />
+        <entry key="..\:/Users/PCS/Desktop/AndroidStudioProjects/Guardian/app/src/main/res/menu/grdn_toolbar_menu.xml" value="0.17864583333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
