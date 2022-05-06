@@ -5,6 +5,17 @@
     <string name="content_description_About">A title</string>
     <string name="content_description_Settings">A title</string>
     <string name="content_description_Help">A title</string>
+    //Headings
+    <string name="heading_one">Swipe for Instructions</string>
+    <string name="heading_two">Step 1</string>
+    <string name="heading_three">Step 2</string>
+    <string name="heading_fourth">Step 3</string>
+
+    //Description
+    <string name="desc_one">Grow your Business By Accepting Card Payments with The New Card Reader</string>
+    <string name="desc_two">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</string>
+    <string name="desc_three">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</string>
+    <string name="desc_fourth">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</string>
     <string name="large_text">
         "Material is the metaphor.\n\n"
 

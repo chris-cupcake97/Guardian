@@ -18,18 +18,28 @@
         <entry key="..\:/Users/HP/AndroidStudioProjects/Guardian/app/src/main/res/menu/top_app_bar.xml" value="0.19947916666666668" />
         <entry key="..\:/Users/PCS/Desktop/AndroidStudioProjects/Guardian/app/src/main/res/drawable-anydpi/ic_menu.xml" value="0.187" />
         <entry key="..\:/Users/PCS/Desktop/AndroidStudioProjects/Guardian/app/src/main/res/drawable-anydpi/ic_search1.xml" value="0.187" />
+        <entry key="..\:/Users/PCS/Desktop/AndroidStudioProjects/Guardian/app/src/main/res/drawable-mdpi/background.xml" value="0.1195" />
+        <entry key="..\:/Users/PCS/Desktop/AndroidStudioProjects/Guardian/app/src/main/res/drawable-mdpi/bg_shape.xml" value="0.1195" />
         <entry key="..\:/Users/PCS/Desktop/AndroidStudioProjects/Guardian/app/src/main/res/drawable-v24/indicator_default.xml" value="0.187" />
         <entry key="..\:/Users/PCS/Desktop/AndroidStudioProjects/Guardian/app/src/main/res/drawable-v24/rounded.xml" value="0.187" />
+        <entry key="..\:/Users/PCS/Desktop/AndroidStudioProjects/Guardian/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.2045" />
+        <entry key="..\:/Users/PCS/Desktop/AndroidStudioProjects/Guardian/app/src/main/res/font/poppins.xml" value="0.234375" />
+        <entry key="..\:/Users/PCS/Desktop/AndroidStudioProjects/Guardian/app/src/main/res/font/poppins_bold.xml" value="0.234375" />
+        <entry key="..\:/Users/PCS/Desktop/AndroidStudioProjects/Guardian/app/src/main/res/font/poppins_light.xml" value="0.234375" />
+        <entry key="..\:/Users/PCS/Desktop/AndroidStudioProjects/Guardian/app/src/main/res/font/poppins_medium.xml" value="0.234375" />
         <entry key="..\:/Users/PCS/Desktop/AndroidStudioProjects/Guardian/app/src/main/res/layout/activity_app_block.xml" value="0.1598731884057971" />
         <entry key="..\:/Users/PCS/Desktop/AndroidStudioProjects/Guardian/app/src/main/res/layout/activity_backdrop.xml" value="0.15806159420289856" />
         <entry key="..\:/Users/PCS/Desktop/AndroidStudioProjects/Guardian/app/src/main/res/layout/activity_child_page.xml" value="0.16032608695652173" />
-        <entry key="..\:/Users/PCS/Desktop/AndroidStudioProjects/Guardian/app/src/main/res/layout/activity_hom_page.xml" value="0.15806159420289856" />
+        <entry key="..\:/Users/PCS/Desktop/AndroidStudioProjects/Guardian/app/src/main/res/layout/activity_hom_page.xml" value="0.18" />
         <entry key="..\:/Users/PCS/Desktop/AndroidStudioProjects/Guardian/app/src/main/res/layout/activity_intro.xml" value="0.1" />
         <entry key="..\:/Users/PCS/Desktop/AndroidStudioProjects/Guardian/app/src/main/res/layout/activity_login.xml" value="0.15806159420289856" />
+        <entry key="..\:/Users/PCS/Desktop/AndroidStudioProjects/Guardian/app/src/main/res/layout/activity_main.xml" value="0.16983695652173914" />
         <entry key="..\:/Users/PCS/Desktop/AndroidStudioProjects/Guardian/app/src/main/res/layout/activity_profile_settings.xml" value="0.18" />
         <entry key="..\:/Users/PCS/Desktop/AndroidStudioProjects/Guardian/app/src/main/res/layout/activity_register.xml" value="0.15806159420289856" />
         <entry key="..\:/Users/PCS/Desktop/AndroidStudioProjects/Guardian/app/src/main/res/layout/activity_screen_limit.xml" value="0.2" />
         <entry key="..\:/Users/PCS/Desktop/AndroidStudioProjects/Guardian/app/src/main/res/layout/layout_screen.xml" value="0.1" />
+        <entry key="..\:/Users/PCS/Desktop/AndroidStudioProjects/Guardian/app/src/main/res/layout/notification.xml" value="0.18" />
+        <entry key="..\:/Users/PCS/Desktop/AndroidStudioProjects/Guardian/app/src/main/res/layout/slider_layout.xml" value="0.1693840579710145" />
         <entry key="..\:/Users/PCS/Desktop/AndroidStudioProjects/Guardian/app/src/main/res/menu/grdn_toolbar_menu.xml" value="0.17864583333333334" />
       </map>
     </option>
